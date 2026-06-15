@@ -12,7 +12,7 @@ The dashboard transforms raw sales data into interactive visual reports that hel
 # Dashboard Screenshots
 
 ## Executive Summary
-![Executive Summary](Sales%20Analytics%20Dashboards%20Screenshots/Summary.png)
+![Executive Summary](Sales%20Analytics%20Dashboards%20Screenshots/Executive%20Summary.png)
 
 ## Regional Performance
 ![Regional Performance](Sales%20Analytics%20Dashboards%20Screenshots/Regional%20Performance.png)
